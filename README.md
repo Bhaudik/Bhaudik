@@ -2,7 +2,7 @@
 <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/borderseparator.gif" width="100%"/>
 <div align="center">
   <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" width="1.75%" align="left"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Bharat+and+Welcome+to+my+Profile!" alt="Hey, I'm Bhaudik and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Bhaudik+and+Welcome+to+my+Profile!" alt="Hey, I'm Bhaudik and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
   <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
 <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/borderseparator.gif" width="100%"/>
@@ -42,7 +42,7 @@ Feel free to connect with me on GitHub and let's embark on a journey of professi
   <h2> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif"/> </h2><br>
   <a href="https://www.hackerrank.com/Makwana_Bharat"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
   <a href="https://leetcode.com/2018bharatmakwana/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
-  <a href="https://www.codingninjas.com/studio/profile/AJAX"><img src="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white"/></a>
+  <a href="https://www.codingninjas.com/studio/profile/AJAX"><img src="https://img.shields.io/badge/free-code-camp?style=for-the-badge&logo=codingninjas&logoColor=white"/></a>
 
 </div></br>
 
@@ -65,22 +65,22 @@ Feel free to connect with me on GitHub and let's embark on a journey of professi
     
     Tools
   
-   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,Cacoo" alt="skills logos" /> <br>
+   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="skills logos" /> <br>
     
      Languages (Programming & Scripting)
     
-   <img src="https://skillicons.dev/icons?i=babel,html,css,js,java,c,c++,php" alt="skills logos" /> <br>
+   <img src="https://skillicons.dev/icons?i=babel,html,css,js,java,c,cpp,php" alt="skills logos" /> <br>
   
     Framworks & other
     
-  <img src="https://skillicons.dev/icons?i=bootstrap,react,Fullter,laravel,python" alt="skills logos" /> <br>
+  <img src="https://skillicons.dev/icons?i=bootstrap,react,flutter,laravel,python" alt="skills logos" /> <br>
   </div>
   <h2></h2>
   <h3> <strong> Actively Learning </strong></h3>
-  <img src="https://skillicons.dev/icons?i=veu.js,firebase,inertiajs,vitejs.dev" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=vue,firebase,vite,inertia" alt="skills actively learning logos"> <br> 
   <h2></h2>
   <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=angular,docker,linux,dev" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=angular,docker,linux" alt="skills planning to learn logos">
 </div>
 
 <h2></h2>
@@ -108,17 +108,17 @@ Feel free to connect with me on GitHub and let's embark on a journey of professi
 
 <div align="center">
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
-  <a href="[https://github.com/Bhaudik/sweets_namkeen]" target="_blank">
+  <a href="https://github.com/Bhaudik/sweets_namkeen" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhaudik&repo=sweets_namkeen&theme=radical" width="49%" alt="sweets_namkeen"/>
   </a>
   <a href="https://github.com/Makwana-Bharat/ALGORITHM_VISUALIZATION" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Makwana-Bharat&repo=ALGORITHM_VISUALIZATION&theme=radical" width="49%" height="50%" alt="ALGORITHM_VISUALIZATION"/>
   </a>
   <a href="https://github.com/Bhaudik/Fresh-N-Fresh-Bakery-Shop" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhaudik&repo=[Fresh-N-Fresh-Bakery-Shop]&theme=radical" width="49%" alt="Fresh-N-Fresh-Bakery-Shop"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhaudik&repo=Fresh-N-Fresh-Bakery-Shop&theme=radical" width="49%" alt="Fresh-N-Fresh-Bakery-Shop"/>
   </a>
-  <a href="https://github.com/ljku-software-factory/ljku-firstoffer-laravel" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ljku-software-factory&repo=ljku-firstoffer-laravel&theme=radical&custom_title=VBior" width="49%" alt="ljku-firstoffer-laravel"/>
+  <a href="https://github.com/Bhaudik/Algorithms-visualizetion-flutter" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhaudik&repo=Algorithms-visualizetion-flutter&theme=radical&custom_title=VBior" width="49%" alt="Algorithms-visualizetion-flutter"/>
   </a>
 </div>
 <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-wave.svg" />
