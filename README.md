@@ -57,7 +57,7 @@ Feel free to connect with me on GitHub and let's embark on a journey of professi
   <img src="https://github.com/godkingjay/godkingjay/blob/master/assets/animated-flame-01.gif" width="16px" align="right"/>
   
   <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makwana-Bharat&theme=radical&card_width=540&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaudik&theme=radical&card_width=540&layout=compact"/>
   <br>
   <h2></h2>
   <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
